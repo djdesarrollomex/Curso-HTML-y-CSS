@@ -1,0 +1,39 @@
+:root {
+
+}
+
+html {
+    font-size: 62.5;
+}
+
+body{
+    font-size: 16px;
+    font-family: "Kanit";
+}
+
+h1 {
+    font-size: 60px;
+    font-family: "Kanit", sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+span {
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: "Kanit", sans-serif;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: "Kanit", sans-serif;
+}
+
+h4 {
+    font-size: 35px;
+    font-family: "Kanit", sans-serif;
+}
